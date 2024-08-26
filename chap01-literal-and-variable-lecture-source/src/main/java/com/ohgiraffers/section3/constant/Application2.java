@@ -19,7 +19,7 @@ public class Application2 {
 
      final  int MAX_AGE = 60; //상수는 합성어를 사용시 언더스코어를 적용. 변수는 대문자로 구분.
 
-        
+        // 1차 수정본
 
 
     }
