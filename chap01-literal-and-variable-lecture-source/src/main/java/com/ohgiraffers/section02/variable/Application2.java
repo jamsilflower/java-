@@ -43,7 +43,7 @@ public class Application2 {
         /*목차. 1-1-2. 문자를 취급하는 자료형 */
         /*필기. 문자를 취급하는 자료형은 한가지가 있다. */
 
-        char ch; // 2byte
+        char ch; // 2byte ''
 
         /* 목차. 1-1-3. 논리값을 취급하는 자료형 */
         boolean isTrue; // 1byte
